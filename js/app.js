@@ -8,5 +8,6 @@
   const bool = true
   const x = null
   console.log(typeof phone)
+  
     
 })()
